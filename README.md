@@ -6,7 +6,7 @@ This is the main Repo where I and some others you may see occasionally post our 
 ## Feature Requests
 This is our first edited build which we are working on improvements such as making our builds SSFHC viable, Regenerations and more. Check back here hourly for updated live changes being pushed. Below are the builds list and its features and info:
 
-[![Feature Requests](https://feathub.com/SchematX/PoEBuilds?format=svg)](https://feathub.com/SchematX/PoEBuilds)
+[![Feature Requests][![Feature Requests](https://feathub.com/SchematX/PoEBuilds?format=svg)](https://feathub.com/SchematX/PoEBuilds)
 
 
 

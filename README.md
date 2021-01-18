@@ -11,7 +11,7 @@ This is our first edited build which we are working on improvements such as maki
 
 
 ## Screenshots
-![ArmaBlazo Example Build](https://github.com/SchematX/PoEBuilds/blob/main/imgs/ArmaBlazoExam.png?raw=true)
+![ArmaBlazo Example Build](https://raw.githubusercontent.com/SchematX/PoEBuilds/Dev/imgs/ArmaBlazoExam.png)
 
  - SSFHC Viable
  - Mana Regeneration

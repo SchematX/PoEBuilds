@@ -1,7 +1,7 @@
 #===============================================================================================================
 # SchematX's Indepth Loot Filter - for Path of Exile
 #===============================================================================================================
-# VERSION:  3.3
+# VERSION:  3.4
 # TYPE:     2-ADVANCED
 # STYLE:    SEMI-STRICT
 # AUTHOR:   SchematX
@@ -16,13 +16,6 @@
 # POE FILTER PROFILE: https://www.pathofexile.com/account/view-profile/CrossOvver/item-filters
 #
 #------------------------------------
-# SUPPORT THE DEVELOPMENT:
-#------------------------------------
-#
-# SUPPORT ME ON PATREON: 		https://www.patreon.com/Neversink
-# SUPPORT THE FILTERBLADE TEAM: https://www.filterblade.xyz/About
-#
-#------------------------------------
 # INSTALLATION / UPDATE :
 #------------------------------------
 #
@@ -30,16 +23,6 @@
 # 1) Paste this file into the following folder: %userprofile%/Documents/My Games/Path of Exile
 # 2) INGAME: Escape -> Options -> UI -> Scroll down -> Select the filter from the Dropdown box
 #
-#------------------------------------
-# CONTACT - if you want to get notifications about updates or just get in touch:
-#------------------------------------
-# PLEASE READ THE FAQ ON https://goo.gl/oQn4EN BEFORE ASKING QUESTIONS
-#
-# TWITTER: @NeverSinkGaming
-# REDDIT:  NeverSinkDev
-# GITHUB:  NeverSinkDev
-# EMAIL :  NeverSinkGaming-at-gmail.com
-
 #===============================================================================================================
 # [WELCOME] TABLE OF CONTENTS + QUICKJUMP TABLE
 #===============================================================================================================
@@ -8791,24 +8774,3 @@ Show # update your filter
 	PlayAlertSound 2 300                    # DROPSOUND:	 Currency Sound
 	PlayEffect Pink
 	MinimapIcon 1 Pink Circle
-
-#===============================================================================================================
-# [[7000]] Special thanks to!
-#===============================================================================================================
-#
-# SPECIAL THANKS:
-# Tobnac & Haggis - I'd need to a document to list everything they've done. Building www.FilterBlade.xyz together is just a single example.
-#
-# PATREON ( https://www.patreon.com/Neversink ):
-# Mike E., Justin F., Henry G., Aaron, Greg D., Reilly M., Jon P., Ryndaar, Matt O., Dmitry R, "Megatron", "The One Guy What's His Name Again?"
-# You guys are awesome, thanks!
-#
-# COMMUNITY & FRIENDS:
-# C4pture, MrPing, Mighty, Antnee, Ghudda, Malchron, ZiggyD, Zizaran, Helmannn, StarRune, TheZensei, Eruyome!
-#
-# Special thanks to the supporters, stream-viewers and my guild :)
-# Everyone who provided feedback on my thread/github and on reddit.
-#
-# GRINDING GEAR GAMES with a special thanks to: Bex, Chris, Jonathan 
-#
-# Script by NeverSink
